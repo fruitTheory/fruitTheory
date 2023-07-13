@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Current project: MOS 6502 Emulator in C ❤
+
+Future projects: 8080 emulator | NES with 6502 modified ❤️‍🔥
+
+Favorite langauges: C | Python ✨
+
+Open to collaboration: As improve hope to start more FOSS - enjoy working with others 🌱
 <!--
 **fruitTheory/fruitTheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
