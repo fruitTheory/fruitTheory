@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Current project: MOS 6502 Emulator in C | RaspberyyPi Game ❤
+Current project: MOS 6502 Emulator in C  ❤
 
 Future projects: 8080 emulator | NES with 6502 modified ❤️‍🔥
 
