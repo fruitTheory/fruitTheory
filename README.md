@@ -2,7 +2,7 @@
 
 Current project: MOS 6502 Emulator in C  ❤
 
-Future projects: 8080 emulator | NES with 6502 modified ❤️‍🔥
+Future projects: ~~8080 emulator~~ | NES with 6502 modified ❤️‍🔥
 
 Favorite langauges: C | Python ✨
 
