@@ -2,7 +2,7 @@
 
 
 
-Current project: ~~MOS 6502 Emulator in C~~ ❤ | NES with 6502 modified ❤️‍🔥
+Current project: ~~MOS 6502 Emulator in C~~ ❤ |
 
 Future projects: file system | network | tiny compiler 🔭
 
