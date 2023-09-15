@@ -2,7 +2,7 @@
 
 
 
-Current project: ~~MOS 6502 Emulator in C~~ ❤ |
+Current project: ~~MOS 6502 Emulator in C~~ ❤ 
 
 Future projects: file system | network | tiny compiler 🔭
 
