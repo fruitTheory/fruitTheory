@@ -2,7 +2,7 @@
 
 
 
-Current project: NES emulator :blush:
+Current project: 
 
 Future projects: file system | network | tiny compiler 🔭
 
