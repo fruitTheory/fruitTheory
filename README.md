@@ -2,7 +2,7 @@
 
 
 
-Current project: 
+Current project: Chess Ai 🤔
 
 Future projects: file system | network | tiny compiler 🔭
 
