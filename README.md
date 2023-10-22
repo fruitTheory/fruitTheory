@@ -4,8 +4,6 @@ Code for hobby. Mostly into low level stuff, interested in how things work. Also
 
 Current project: Chess Ai 🤔
 
-Future projects: file system | network | tiny compiler 🔭
-
 Favorite langauges: C | Python ✨
 
 Open to collaboration: As improve hope to start more FOSS - enjoy working with others 🌱
