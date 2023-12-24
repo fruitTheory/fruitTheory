@@ -2,7 +2,7 @@
 
 Code for hobby. Mostly into low level stuff, interested in how things work. Also the topic of media like audio, graphics, animation, and such. Ultimate goal would be building something that helps someone else express thier creativity.
 
-Current project: 
+Current project: Sudoku
 
 Favorite langauges: C | Python ✨
 
